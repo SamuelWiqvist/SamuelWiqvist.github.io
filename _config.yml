@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Samuel Wiqvist"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Bayesian statistics/data scientist. PhD student in mathematical statistics at Lund University."
+  bio    : "Bayesian statistics/data scientist. PhD student in mathematical statistics at Lund University. TEST"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
