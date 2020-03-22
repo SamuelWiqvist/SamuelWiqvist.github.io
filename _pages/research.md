@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 
-Find more information at my [University home page](http://www.maths.lu.se/staff/samuel-wiqvist/)
+Find more information at my [University home page](http://www.maths.lu.se/staff/samuel-wiqvist/).
 
 ## Publications
 

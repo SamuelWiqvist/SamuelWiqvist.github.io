@@ -10,7 +10,7 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 
 ### Contact me
 
-* Github
-* Twitter
-* LinkedIn
-* E-mail
+* [Github](https://github.com/SamuelWiqvist)
+* [Twitter](https://twitter.com/samuel_wiqvist)
+* [LinkedIn](https://linkedin.com/in/samuel-wiqvist/)
+* [E-mail](mailto:samuel.wiqvist@live.com)
