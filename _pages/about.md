@@ -3,7 +3,7 @@ permalink: /about/
 title: "About me"
 ---
 
-I am a Bayesian statistician/data scientist currently pursuing a PhD in Mathematical statistics at Lund University. My technical interest are: Bayesian statistics, simulation based inference, and methods for combining machine learning and classical inference methods.
+I am a Bayesian statistician/data scientist currently pursuing a PhD in mathematical statistics at Lund University. My technical interest are: Bayesian statistics, simulation based inference, and methods for combining machine learning and classical inference methods.
 
 
 ### Contact me
