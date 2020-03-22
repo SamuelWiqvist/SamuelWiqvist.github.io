@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "Curriculum Vitae:"
+title: "Curriculum Vitae"
 ---
 
 <embed src="/assets/pdf/Samuel_Wiqvist_resume.pdf#page=1&zoom=75" width="600" height="800">

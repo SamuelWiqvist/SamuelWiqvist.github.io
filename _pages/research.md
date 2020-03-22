@@ -3,6 +3,18 @@ permalink: /research/
 title: "Research"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Find more information at my [University home page](http://www.maths.lu.se/staff/samuel-wiqvist/)
+
+## Publications
+
+### Pre-prints
+
+1. *S. Wiqvist*, A. Golightly, AT Mclean, U. Picchini (2019). Efficient inference for stochastic differential mixed-effects models using correlated particle pseudo-marginal algorithms, arXiv:1907.09851.
+
+2. *S. Wiqvist*, U. Picchini and J. Forman (2018). Accelerating delayed-acceptance Markov chain Monte Carlo algorithms, arXiv:1806.05982.
+
+
+### Conference papers
+
+1. *S. Wiqvist*, P-A. Mattei, U. Picchini and J. Frellsen (2019). Partially Exchangeable Networks and architectures for learning summary statistics in Approximate Bayesian Computation. Proceedings of the 36th International Conference on Machine Learning, PMLR 97:6798--6807.

@@ -3,10 +3,11 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-author_profile: true
+author_profile: false
 title: "Hello!"
 ---
 
-Welcome to my site!
 
-This web-page is currently under construction, please return later. 
+*Welcome to my site!*
+
+This web-page is currently under construction, please return later.
