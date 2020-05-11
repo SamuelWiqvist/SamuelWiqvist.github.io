@@ -7,4 +7,4 @@ title: "Curriculum Vitae"
 
 <br/><br/>
 
-[Academic CV](/assets/pdf/Samuel_Wiqvist_CV__academic.pdf)
+[Academic CV](/assets/pdf/Samuel_Wiqvist_CV_academic.pdf)
