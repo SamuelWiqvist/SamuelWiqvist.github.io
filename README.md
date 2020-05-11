@@ -7,6 +7,5 @@ Url: https://samuelwiqvist.github.io/
 
 ## todo:
 
-* fix square frame for picture
-* add text
-* updated linked files
+* fix custom url
+* add more text 
