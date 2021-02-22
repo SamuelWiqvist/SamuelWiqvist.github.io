@@ -8,5 +8,3 @@ title: "Hello!"
 ---
 
 Welcome to my site! I am a Bayesian statistician/data scientist currently pursuing a Ph.D. in mathematical statistics at Lund University. My technical interests are: Bayesian statistics, simulation-based inference, and methods for combining machine learning and classical inference methods. I am also,  in addition to that, interested in replicable research and research software engineering practices.
-
-NB: This site is still under construction.
