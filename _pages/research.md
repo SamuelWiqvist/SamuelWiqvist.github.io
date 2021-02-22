@@ -9,7 +9,6 @@ title: "Research"
 
 1. **Wiqvist, S.**, Frellsen, J., & Picchini, U. (2021). Sequential Neural Posterior and Likelihood Approximation. arXiv preprint arXiv:2102.06522.
 
-
 [[arXiv]](https://arxiv.org/abs/2102.06522)[[Code]](https://github.com/SamuelWiqvist/snpla)
 
 
