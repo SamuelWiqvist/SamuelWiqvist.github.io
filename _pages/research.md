@@ -10,10 +10,8 @@ title: "Research"
 1. **Wiqvist, S.**, Frellsen, J., & Picchini, U. (2021). Sequential Neural Posterior and Likelihood Approximation. arXiv preprint arXiv:2102.06522.<br/>
   [[arXiv]](https://arxiv.org/abs/2102.06522)[[Code]](https://github.com/SamuelWiqvist/snpla)
 
-
 2. **Wiqvist, S.**, Picchini, U., Forman, J. L., Lindorff-Larsen, K., & Boomsma, W. (2018). Accelerating delayed-acceptance Markov chain Monte Carlo algorithms. arXiv preprint arXiv:1806.05982.<br/>
   [[arXiv]](https://arxiv.org/abs/1806.05982)[[Code]](https://github.com/SamuelWiqvist/adamcmcpaper)
-
 
 ### Peer-review publications
 
