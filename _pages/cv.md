@@ -3,9 +3,11 @@ permalink: /cv/
 title: "Curriculum Vitae"
 ---
 
-<iframe src="https://samuelwiqvist.github.io/assets/pdf/Samuel_Wiqvist_resume.pdf&embedded=true" style="width:600px; height:800px;" frameborder="0"></iframe>
-
+<embed src="/assets/pdf/Samuel_Wiqvist_resume.pdf#page=1&zoom=75" width="600" height="800">
 
 <br/><br/>
+
+[Resume](/assets/pdf/Samuel_Wiqvist_resume.pdf)
+
 
 [Academic CV](/assets/pdf/Samuel_Wiqvist_CV_academic.pdf)
