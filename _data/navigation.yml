@@ -1,6 +1,8 @@
 main:
   #- title: "Home"
   #  url: /
+  # - title: "Blog" # i will add the blog later
+  # url: /blog/
   - title: "Research"
     url: /research/
   - title: "Curriculum Vitae"

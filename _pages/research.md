@@ -6,10 +6,13 @@ title: "Research"
 
 ## Pre-prints
 
-1. **Wiqvist, S.**, Frellsen, J., & Picchini, U. (2021). Sequential Neural Posterior and Likelihood Approximation. arXiv preprint arXiv:2102.06522.<br/>
+1.  Persson, S., Welkenhuysen, N., Shashkova, S., **Wiqvist, S.**, Reith, P.,  W Schmidt, G., Picchini, U., \& Cvijovic, M. (2021). PEPSDI: Scalable and flexible inference framework for stochastic dynamic single-cell models. arXiv preprint arXiv:2102.06522.<br/>
+  [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2021.07.01.450748v1)[[Code]](https://github.com/cvijoviclab/PEPSDI)
+
+2. **Wiqvist, S.**, Frellsen, J., & Picchini, U. (2021). Sequential Neural Posterior and Likelihood Approximation. arXiv preprint arXiv:2102.06522.<br/>
   [[arXiv]](https://arxiv.org/abs/2102.06522)[[Code]](https://github.com/SamuelWiqvist/snpla)
 
-2. **Wiqvist, S.**, Picchini, U., Forman, J. L., Lindorff-Larsen, K., & Boomsma, W. (2018). Accelerating delayed-acceptance Markov chain Monte Carlo algorithms. arXiv preprint arXiv:1806.05982.<br/>
+3. **Wiqvist, S.**, Picchini, U., Forman, J. L., Lindorff-Larsen, K., & Boomsma, W. (2018). Accelerating delayed-acceptance Markov chain Monte Carlo algorithms. arXiv preprint arXiv:1806.05982.<br/>
   [[arXiv]](https://arxiv.org/abs/1806.05982)[[Code]](https://github.com/SamuelWiqvist/adamcmcpaper)
 
 ## Peer-reviewed publications
