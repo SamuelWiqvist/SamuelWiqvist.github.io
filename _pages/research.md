@@ -6,7 +6,7 @@ title: "Research"
 
 ## Pre-prints
 
-1.  Persson, S., Welkenhuysen, N., Shashkova, S., **Wiqvist, S.**, Reith, P.,  W Schmidt, G., Picchini, U., \& Cvijovic, M. (2021). PEPSDI: Scalable and flexible inference framework for stochastic dynamic single-cell models. arXiv preprint arXiv:2102.06522.<br/>
+1.  Persson, S., Welkenhuysen, N., Shashkova, S., **Wiqvist, S.**, Reith, P.,  W Schmidt, G., Picchini, U., & Cvijovic, M. (2021). PEPSDI: Scalable and flexible inference framework for stochastic dynamic single-cell models. arXiv preprint arXiv:2102.06522.<br/>
   [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2021.07.01.450748v1)[[Code]](https://github.com/cvijoviclab/PEPSDI)
 
 2. **Wiqvist, S.**, Frellsen, J., & Picchini, U. (2021). Sequential Neural Posterior and Likelihood Approximation. arXiv preprint arXiv:2102.06522.<br/>
