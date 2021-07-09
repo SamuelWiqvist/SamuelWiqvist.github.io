@@ -16,7 +16,6 @@ I have a background in engineering, and I completed my Master of Engineering deg
 My technical interests are: Bayesian statistics, simulation-based inference, and methods for combining machine learning and classical inference methods. I am also,  in addition to that, interested in replicable research and research software engineering practices.
 You can find more information about my research on the [research page](https://samuelwiqvist.github.io/research/).
 
-I am also occasionally updating my [blog](https://samuelwiqvist.github.io/blog/) where I write about interesting ideas and methods that I run in to as part of my work.
 
 ## Find me online
 
