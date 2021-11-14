@@ -7,7 +7,7 @@ author_profile: true
 title: "Hello!"
 ---
 
-Welcome to my site! I have a Ph.D. in mathematical statistics at Lund University, Sweden, and I now work as a data scientist at Danske Bank in the Fraud Machine Learning, Data & Analytics team.
+Welcome to my site! I have a Ph.D. in mathematical statistics from Lund University, Sweden, and I now work as a data scientist at Danske Bank in the Fraud Machine Learning, Data & Analytics team.
 
 ## About me
 
