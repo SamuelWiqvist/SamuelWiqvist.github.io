@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Samuel Wiqvist"
   avatar : "/assets/images/0G2A8449_websize.jpg"
-  bio    : "Bayesian statistician/data scientist. Ph.D. student in mathematical statistics at Lund University, Sweden."
+  bio    : "PhD in mathematical statistics from Lund University, Sweden, now data scientist at Danske Bank in the Fraud Machine Learning, Data & Analytics team."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
